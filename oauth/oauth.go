@@ -1,10 +1,10 @@
 package oauth
 
 import (
-	"bookstore_oauth-go/oauth/errors"
 	"encoding/json"
 	"fmt"
 	"github.com/mercadolibre/golang-restclient/rest"
+	"github.com/n0rdy/bookstore_oauth-go/oauth/errors"
 	"net/http"
 	"strconv"
 	"strings"
